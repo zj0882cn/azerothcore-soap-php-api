@@ -2,7 +2,7 @@
 
 /** @var yii\web\View $this */
 
-$this->title = 'My Yii Application';
+$this->title = '测试环境';
 ?>
 <div class="site-index">
 

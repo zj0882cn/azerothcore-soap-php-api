@@ -5,11 +5,10 @@ use SoapClient;
 use SoapParam;
 use SoapFault;
 
-
 /**
- * CaipiaoCaipiaoController implements the CRUD actions for CaipiaoCaipiao model.
+ *  Wowsoap
  */
-class BaseWowsoap
+class Wowsoap
 {
 	
 	public $soap_connection_info = array(
