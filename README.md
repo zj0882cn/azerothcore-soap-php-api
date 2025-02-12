@@ -9,9 +9,8 @@
 # x 服务器在线玩家查询
 
 # 安装过程：
-
-# 安装YII2
-php composer.phar create-project yiisoft/yii2-app-basic basic
+# YII2 php composer.phar create-project yiisoft/yii2-app-basic basic
+composer update
 
 # 验证YII 安装结果
 # 在项目 web 目录下可以通过下面的命令:
